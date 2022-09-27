@@ -1,0 +1,15 @@
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\bin\Debug\net6.0\CountryReader.exe
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\bin\Debug\net6.0\CountryReader.deps.json
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\bin\Debug\net6.0\CountryReader.runtimeconfig.json
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\bin\Debug\net6.0\CountryReader.dll
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\bin\Debug\net6.0\CountryReader.pdb
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.csproj.AssemblyReference.cache
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.AssemblyInfoInputs.cache
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.AssemblyInfo.cs
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.csproj.CoreCompileInputs.cache
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.dll
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\refint\CountryReader.dll
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.pdb
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\CountryReader.genruntimeconfig.cache
+C:\Users\Tamerlan\source\repos\TestSolution\CountryReader\obj\Debug\net6.0\ref\CountryReader.dll
